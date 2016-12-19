@@ -1,0 +1,128 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight=".1"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:id="@+id/map"
+                android:name="com.google.android.gms.maps.SupportMapFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="com.example.darvesh.splashscreen.MapsActivity" />
+
+
+            <android.support.v7.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/card_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                card_view:cardCornerRadius="3dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#000"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight=".8"
+                        android:background="#fff"
+                        android:padding="10dp"
+                        android:id="@+id/p_query"
+                        android:hint="Search Products"/>
+
+                    <ImageButton
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.20"
+                        android:id="@+id/search_btn"
+                        android:src="@drawable/places_ic_search"
+                        android:background="#eee" />
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#3F51B5"
+        android:layout_weight=".9"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:paddingTop="7dp"
+            android:drawableTop="@drawable/ic_home_white_24dp"
+            android:id="@+id/home"
+            android:textSize="13sp"
+            android:layout_weight="1"
+            android:textColor="#fff"
+            android:background="#3F51B5"
+            android:text="Home"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:paddingTop="7dp"
+            android:drawableTop="@drawable/ic_map_white_24dp"
+            android:id="@+id/map_view"
+            android:layout_weight="1"
+            android:textSize="13sp"
+            android:textColor="#fff"
+            android:background="#1A237E"
+            android:layout_marginStart="-5dp"
+            android:text="Map"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="-5dp"
+            android:layout_weight="1"
+            android:paddingTop="7dp"
+            android:textSize="13sp"
+            android:drawableTop="@drawable/ic_add_circle_white_24dp"
+            android:background="#3F51B5"
+            android:textColor="#fff"
+            android:id="@+id/post_ad"
+            android:text="Post AD"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:paddingTop="7dp"
+            android:drawableTop="@drawable/ic_person_white_24dp"
+            android:layout_marginStart="-5dp"
+            android:background="#3F51B5"
+            android:id="@+id/profile"
+            android:textColor="#fff"
+            android:layout_weight="1"
+            android:textSize="13sp"
+            android:text="Profile"/>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

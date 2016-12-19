@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">947169956053-q7j61u1f6hk5vgs0jqco89mgu0ji5m5c.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://buyerstop-2a232.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">947169956053</string>
+    <string name="google_api_key" translatable="false">AIzaSyC7xGuxt_aAAAvFFLf39h6l87wIfUp6PSw</string>
+    <string name="google_app_id" translatable="false">1:947169956053:android:5a332fa504a82000</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7xGuxt_aAAAvFFLf39h6l87wIfUp6PSw</string>
+    <string name="google_storage_bucket" translatable="false">buyerstop-2a232.appspot.com</string>
+</resources>

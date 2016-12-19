@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_sign_up"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainThemeColor"
+    tools:context="com.example.darvesh.splashscreen.SignUpActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="0dp">
+
+            <TextView
+                android:text="Login"
+                android:padding="10dp"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:textSize="30sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="20dp">
+
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Email"
+                android:background="@drawable/theme1"
+                android:padding="12dp"
+                android:id="@+id/l_email"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Password"
+                android:padding="12dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/theme1"
+                android:id="@+id/l_password"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:inputType="textPassword"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:id="@+id/loginBtn"
+                android:textColor="#fff"
+                android:background="@drawable/theme2"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="20dp"
+                android:text="Login"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#fff"
+                android:text="Dont have an account? Sign Up"
+                android:padding="20dp"
+                android:id="@+id/sign_up_text"
+                android:textAlignment="center"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#59ffffff"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"/>
+
+        <!--<Button-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="@drawable/theme3"-->
+            <!--android:layout_marginLeft="15dp"-->
+            <!--android:layout_marginRight="15dp"-->
+            <!--android:layout_marginTop="20dp"-->
+            <!--android:text="Facebook"-->
+            <!--android:id="@+id/facebook_login"-->
+            <!--android:textColor="#fff"/>-->
+        <!--<Button-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="@drawable/shadow_search"-->
+            <!--android:layout_marginLeft="15dp"-->
+            <!--android:layout_marginRight="15dp"-->
+            <!--android:layout_marginBottom="30dp"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:text="Google"-->
+            <!--android:id="@+id/google_login"-->
+            <!--android:outlineProvider="bounds"-->
+            <!--android:textColor="#dd4b39"/>-->
+
+        <!--<com.google.android.gms.common.SignInButton-->
+            <!--android:id="@+id/sign_in_button"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content" />-->
+
+        <com.google.android.gms.common.SignInButton
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+        android:layout_marginTop="10dp"
+        android:text="Google"
+            android:layout_marginBottom="50dp"
+        android:id="@+id/google_login"
+        android:textColor="#dd4b39"/>
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>

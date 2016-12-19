@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_27724d0f7bd912d735419c480b69dd9fdb1f0190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_7e87154a5969d58e1e8e4febe394f963cb0c6597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.1_11dc1a7565c3e93fbe4c025fae800e5ec8277e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.6.1_014004c9de81ca2cbce6adb2e2058531c0745e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.6.1_3a7a61613c4f6489da422d9a8d1d6285b5f7c804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_46c63880e5aaa7643df5e6b413794b09b3d582e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_d6c5cd5d23178c59cd25f90ee564127a1fdad508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\2.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.roughike-bottom-bar-2.0.2_ad83ed316b5dc0f9036f507376ffaef302d30ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_e725c2f9cc25eb8c518cbbe8cfa71842011d173d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_508573870aa34876c8f0adabe7e794829529c068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_6f6f6e05cfe6720f53e47b27667bb7e5dc4c8e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_4c7879cb05057ed54bb5e4248a984677ac50f20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_30249e77c03d856c1b59ac771fbf40392327d567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_e71b899c6f4a024881f3e06e6b91bd4264258f9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.6.1_bc746f20b2ca411b945b6cd8105a5da150e9697b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_0effe5d2c0d18c3d03ed285846a713ba1cc46fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_ac98665d4b7fc01fbb20ebe7e2a532f93e1c8e73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_86f8d126288219bdbe7ec0ce508fa981f93309a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_7f832117b9ec7996aaec51316b1dd61d63550945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.1_89c6e7e3cd91a075ab1317f9f96dbbf55d719285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_c4764d3d23896f9103e77f6373a2d1ac1929d05f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_e03b84347f75d940b4906b49ea4c705e566b11c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_10691ebf1fd11cf14a9f5a9e5a1870dabf12ff9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_14ce432999a515a19b9ad470e0399c626b68b7a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_225f0e801d18e0b749f0d8afe105c6bf51348764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_10fca9e935ead1a8c9c15750bc3a8ced4bba879a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_4b2b419ca77311cf6acbf72e107b8e2c082afeeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.6.1_2d1c1a893e1b14e0434c511c5ea7c54518b0d354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.6.1_2589e787b09f931c0d50319f9311274e5fd5a49e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_ec45eab3b5575849802bbffd9c990d326cee37db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_51dcd7f43bbdd5045c52fd3e4ce5f1382b5014ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_22c81131b19a930a43dfdc61bb2ddeea9ff84709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_cbf6b03ae174dd009223a144d5dac1d53e9e83c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_f0649f5fccc3b48ec3766bd3804588e03385a57c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.6.1_06e687b479b7383dbbbc67c96e94bce28693f13c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.6.1_8954ddec032ea3632043a302575e57764fad29d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_f9ad3dbc58ae7d308cae404bf59fbf6c819a3a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a8c6e45f03490df0909e770e7a2b23b31686523a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_8b542b8d49365e283893eed2b4a8abffc5e9b6f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_33429f116d4329df2e58d59c7b2b9bf7309c7892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_5e5224bb7c325638a1cc65b222cff69e2d4db20d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_66c48b7933972651e56e169d452ffa0a0dac1259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_52c25eaa5a3a39808decb428d9fe44fb2894d9b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.6.1_d494571ed5eb3a2c23c7b98b2a78e28152cc57c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.2_53b577a26d0fba6f596460bacf965eb7a26e4833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.1_e3d0a03ccf408a305016a3436d917f700ff02ad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_e1facfcbb9af325467c3d091f2a8bd2c48427639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="C:\Users\Darvesh\Desktop\M Project\MC_Project-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.6.1_c004cc546012c6bd3355155bb844a74e7d4e3413.jar" />
+    </item>
+
+</items>

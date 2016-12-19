@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_edit"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:background="@color/mainThemeColor"
+    tools:context="com.example.darvesh.splashscreen.EditActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Edit Name"
+        android:textColor="#fff"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="20sp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:id="@+id/change_my_name"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="#fff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_marginTop="12dp"
+        android:id="@+id/change_name_btn"
+        android:background="@drawable/shadow_search"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Edit Profile Image"
+        android:textColor="#fff"
+        android:layout_marginTop="40sp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="20sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@android:drawable/ic_menu_camera"
+            android:id="@+id/profile_photo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Take a Picture"
+            android:textColor="#fff"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-medium"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:id="@+id/profile_gallery" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Choose Picture From Gallery"
+            android:textColor="#fff"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-medium"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

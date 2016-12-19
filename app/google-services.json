@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "947169956053",
+    "firebase_url": "https://buyerstop-2a232.firebaseio.com",
+    "project_id": "buyerstop-2a232",
+    "storage_bucket": "buyerstop-2a232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947169956053:android:5a332fa504a82000",
+        "android_client_info": {
+          "package_name": "com.example.darvesh.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947169956053-989ukk5cm68bsboj879eq3kg01vihnoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.darvesh.splashscreen",
+            "certificate_hash": "F339F06578DC1F207240964470717A1EE9E69E70"
+          }
+        },
+        {
+          "client_id": "947169956053-q7j61u1f6hk5vgs0jqco89mgu0ji5m5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7xGuxt_aAAAvFFLf39h6l87wIfUp6PSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947169956053-q7j61u1f6hk5vgs0jqco89mgu0ji5m5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
